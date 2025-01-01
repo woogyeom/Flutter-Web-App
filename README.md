@@ -2,4 +2,4 @@
 
 A Flutter Web App practice project.
 
-![GIFMaker_me](https://github.com/user-attachments/assets/0abf8ca6-577f-41b9-929e-359fbc884a1b)
+![GIFMaker_me (1)](https://github.com/user-attachments/assets/0728bb20-6947-40cf-aead-10834a58ee91)
